@@ -6,7 +6,7 @@ Write a recommendation report after conducting an analysis of Office Solutions' 
 ## Components
 - P1: Google CoLab notebook with data analysis using python and pandas, as well as charts using matplotlib and seaborn. 
 - P2: Google CoLab notebook that allow non-technical users to see the supporting data.
-- p3: PDF of the recommendation report.
+- P3: PDF of the recommendation report.
 
 ## Background
 - This was a university assignment so there were certain guidelines in terms of the direction the analysis, therefore the recommendation may not reflect the most optimal or logical solution.
