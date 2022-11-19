@@ -9,3 +9,6 @@ Write a recommendation report after conducting an analysis of Office Solutions' 
   - Pandas
   - MatPlotLib
   - Seaborn
+
+## Dataset
+TableauSalesData.xlsx (downloadable in repository)
