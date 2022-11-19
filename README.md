@@ -3,6 +3,13 @@
 ## Task
 Write a recommendation report after conducting an analysis of Office Solutions' sales data.
 
+## Background
+This was an assignment so there were certain limitations in terms of the direction the analysis, 
+so the recommendation may not reflect the most optimal or logical solutions.
+
+## Approach
+
+
 ## Technology Stack
 - Google Colab Notebook
 - Python
@@ -12,5 +19,3 @@ Write a recommendation report after conducting an analysis of Office Solutions' 
 
 ## Dataset
 TableauSalesData.xlsx (downloadable in repository)
-   
-   Sales data for a store called Office Solutions
