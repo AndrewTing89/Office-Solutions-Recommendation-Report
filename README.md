@@ -1,2 +1,11 @@
 # Office-Solutions-Recommendation-Report
-A recommendation report based off the analysis of Office Solutions' sales data using python and it's pandas and matlabplot libraries.
+
+##Task
+Write a recommendation report after conducting an analysis of Office Solutions' sales data.
+
+##Technology Stack
+-Google Colab Notebook
+-Python
+  -Pandas
+  -MatPlotLib
+  -Seaborn
